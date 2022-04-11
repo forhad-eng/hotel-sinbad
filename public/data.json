@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Single Bed",
+        "price": 3000,
+        "img": "https://i.ibb.co/WtPtCBn/double-bed.webp"
+    },
+    {
+        "id": 2,
+        "name": "Double Bed",
+        "price": 4000,
+        "img": "https://i.ibb.co/HhM5cwY/elegant-hotel-room-with-big-bed.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Luxurious Double Bed",
+        "price": 5000,
+        "img": "https://i.ibb.co/pLc0q4J/interior-modern-comfortable-hotel-room.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Single Bed",
+        "price": 3500,
+        "img": "https://i.ibb.co/N2txLw2/single-bed.webp"
+    },
+    {
+        "id": 5,
+        "name": "Super Dooper Bed",
+        "price": 6000,
+        "img": "https://i.ibb.co/Qn94fgW/3639.jpg"
+    },
+    {
+        "id": 6,
+        "name": "King Size Bed",
+        "price": 6500,
+        "img": "https://i.ibb.co/3hjB081/3651.jpg"
+    }
+]
